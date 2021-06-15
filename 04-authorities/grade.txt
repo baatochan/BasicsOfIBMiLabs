@@ -1,0 +1,4 @@
+Ocena: 3.5
+Komentarz zwrotny:
+teoretyczna mogłaby być lepiej rozbudowana
+praktyczna - w zasadzie niezbędne minimum - warto było jeszcze sprawdzić co się dzieje, kiedy na liście i nadane bezpośrednio to różne zestawy (nie *ALL albo nic)- co się wtedy dzieje
